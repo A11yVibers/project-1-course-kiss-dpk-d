@@ -1,0 +1,5 @@
+course_id,class_id,material_id,display_order,material_title,material_type,file_path
+HIST111,HIST111-C01,HIST111-C01-M01,1,Lecture Notes: What Were the Silk Roads?,pdf,materials/silk_roads_class_01_lecture.pdf
+HIST111,HIST111-C01,HIST111-C01-M02,2,Lecture Video: What Were the Silk Roads?,video,materials/silk_roads_class_01_lecture.mp4
+HIST111,HIST111-C02,HIST111-C02-M01,1,The Silk Road and Ancient Trade: Crash Course World History #9,youtube,https://youtu.be/vfe-eNq-Qyg?si=v8FIGhDYQ-oVg8GB
+HIST111,HIST111-C02,HIST111-C02-M02,2,Assignment: Mapping the Silk Roads,md,materials/silk_roads_class_02_assignment.md

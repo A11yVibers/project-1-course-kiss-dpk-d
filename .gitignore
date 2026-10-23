@@ -1,0 +1,25 @@
+# Local experiment infrastructure
+/.codex/
+/.claude/
+/.agents/
+/.opencode/
+/.kiss/
+/.control-center-experiment.json
+/.trajectory/
+
+# Dependencies and generated output
+/node_modules/
+/.vinext/
+/.wrangler/
+/.openai/
+/dist/
+/build/
+/out/
+/coverage/
+
+# Local caches and secrets
+__pycache__/
+.playwright-mcp/
+.DS_Store
+.env*
+*.log

@@ -1,0 +1,145 @@
+course_id,class_id,week_number,date,class_name
+HIST101,HIST101-C01,1,2026-09-21,Class 1: The Nile and the Origins of Egyptian Civilization
+HIST101,HIST101-C02,1,2026-09-24,Class 2: Pharaohs and the Idea of Divine Kingship
+HIST101,HIST101-C03,2,2026-09-28,"Class 3: Pyramids, Tombs, and the Afterlife"
+HIST101,HIST101-C04,2,2026-10-01,"Class 4: Gods, Temples, and Religious Practice"
+HIST101,HIST101-C05,3,2026-10-05,"Class 5: Hieroglyphs, Scribes, and Record Keeping"
+HIST101,HIST101-C06,3,2026-10-08,Class 6: Daily Life along the Nile
+HIST101,HIST101-C07,4,2026-10-12,"Class 7: Trade, Diplomacy, and Egypt's Neighbors"
+HIST101,HIST101-C08,4,2026-10-15,"Class 8: Women, Family, and Social Structure"
+HIST101,HIST101-C09,5,2026-10-19,Class 9: The New Kingdom and Imperial Egypt
+HIST101,HIST101-C10,5,2026-10-22,"Class 10: Decline, Conquest, and the Legacy of Ancient Egypt"
+HIST102,HIST102-C01,1,2026-09-21,Class 1: The Geography and Early Cultures of Greece
+HIST102,HIST102-C02,1,2026-09-24,Class 2: The Rise of the Polis
+HIST102,HIST102-C03,2,2026-09-28,Class 3: Athens and the Development of Democracy
+HIST102,HIST102-C04,2,2026-10-01,Class 4: Sparta and Militarized Society
+HIST102,HIST102-C05,3,2026-10-05,"Class 5: Greek Myth, Religion, and Ritual"
+HIST102,HIST102-C06,3,2026-10-08,Class 6: The Persian Wars
+HIST102,HIST102-C07,4,2026-10-12,Class 7: The Peloponnesian War
+HIST102,HIST102-C08,4,2026-10-15,Class 8: Philosophy from Socrates to Aristotle
+HIST102,HIST102-C09,5,2026-10-19,"Class 9: Art, Architecture, and the Classical Ideal"
+HIST102,HIST102-C10,5,2026-10-22,"Class 10: Family, Slavery, and Everyday Life"
+HIST102,HIST102-C11,6,2026-10-26,Class 11: Alexander the Great and Macedonian Expansion
+HIST102,HIST102-C12,6,2026-10-29,Class 12: The Hellenistic World and Greek Legacy
+HIST103,HIST103-C01,1,2026-09-21,Class 1: Origins of Rome and the Early Republic
+HIST103,HIST103-C02,1,2026-09-24,Class 2: Republican Government and Roman Citizenship
+HIST103,HIST103-C03,2,2026-09-28,Class 3: Roman Expansion across Italy
+HIST103,HIST103-C04,2,2026-10-01,Class 4: The Punic Wars and Mediterranean Power
+HIST103,HIST103-C05,3,2026-10-05,Class 5: Social Conflict and the Late Republic
+HIST103,HIST103-C06,3,2026-10-08,Class 6: Julius Caesar and the Collapse of Republican Rule
+HIST103,HIST103-C07,4,2026-10-12,Class 7: Augustus and the Birth of the Empire
+HIST103,HIST103-C08,4,2026-10-15,"Class 8: Emperors, Administration, and Imperial Politics"
+HIST103,HIST103-C09,5,2026-10-19,Class 9: The Roman Army and Frontier Society
+HIST103,HIST103-C10,5,2026-10-22,"Class 10: Cities, Engineering, and Urban Life"
+HIST103,HIST103-C11,6,2026-10-26,"Class 11: Religion, Christianity, and Cultural Change"
+HIST103,HIST103-C12,6,2026-10-29,"Class 12: Trade, Slavery, and the Imperial Economy"
+HIST103,HIST103-C13,7,2026-11-02,Class 13: Crisis and Transformation in the Third Century
+HIST103,HIST103-C14,7,2026-11-05,"Class 14: Late Antiquity, Division, and Rome's Enduring Legacy"
+HIST104,HIST104-C01,1,2026-09-21,Class 1: The Post-Roman World and Early Medieval Kingdoms
+HIST104,HIST104-C02,1,2026-09-24,"Class 2: Feudalism, Lordship, and Rural Society"
+HIST104,HIST104-C03,2,2026-09-28,Class 3: The Medieval Church and Monastic Life
+HIST104,HIST104-C04,2,2026-10-01,"Class 4: Castles, Knights, and Warfare"
+HIST104,HIST104-C05,3,2026-10-05,"Class 5: Towns, Guilds, and the Revival of Trade"
+HIST104,HIST104-C06,3,2026-10-08,"Class 6: Kingship, Law, and the Growth of States"
+HIST104,HIST104-C07,4,2026-10-12,Class 7: The Crusades and Mediterranean Encounters
+HIST104,HIST104-C08,4,2026-10-15,"Class 8: Universities, Learning, and Scholastic Culture"
+HIST104,HIST104-C09,5,2026-10-19,"Class 9: Women, Family, and Work"
+HIST104,HIST104-C10,5,2026-10-22,Class 10: The Black Death and Medieval Crisis
+HIST104,HIST104-C11,6,2026-10-26,"Class 11: Popular Religion, Art, and Gothic Architecture"
+HIST104,HIST104-C12,6,2026-10-29,Class 12: The Late Middle Ages and the Transition to Early Modern Europe
+HIST105,HIST105-C01,1,2026-09-21,Class 1: Origins of the Renaissance in Italian Cities
+HIST105,HIST105-C02,1,2026-09-24,Class 2: Humanism and the Rediscovery of Classical Learning
+HIST105,HIST105-C03,2,2026-09-28,Class 3: Renaissance Art and New Ways of Seeing
+HIST105,HIST105-C04,2,2026-10-01,"Class 4: Leonardo, Michelangelo, and the Artist as Celebrity"
+HIST105,HIST105-C05,3,2026-10-05,"Class 5: Patronage, Politics, and the Medici"
+HIST105,HIST105-C06,3,2026-10-08,Class 6: Printing and the Spread of Ideas
+HIST105,HIST105-C07,4,2026-10-12,"Class 7: Science, Observation, and Renaissance Knowledge"
+HIST105,HIST105-C08,4,2026-10-15,Class 8: Martin Luther and the Protestant Reformation
+HIST105,HIST105-C09,5,2026-10-19,Class 9: Catholic Reform and Religious Conflict
+HIST105,HIST105-C10,5,2026-10-22,Class 10: The Renaissance beyond Italy and Its Global Legacy
+HIST106,HIST106-C01,1,2026-09-21,"Class 1: Navigation, Cartography, and the Maritime World"
+HIST106,HIST106-C02,1,2026-09-24,Class 2: Portuguese Voyages around Africa
+HIST106,HIST106-C03,2,2026-09-28,Class 3: Columbus and the Atlantic Crossing
+HIST106,HIST106-C04,2,2026-10-01,Class 4: Conquest of the Aztec Empire
+HIST106,HIST106-C05,3,2026-10-05,Class 5: Conquest of the Inca Empire
+HIST106,HIST106-C06,3,2026-10-08,Class 6: The Columbian Exchange
+HIST106,HIST106-C07,4,2026-10-12,Class 7: Atlantic Slavery and Forced Migration
+HIST106,HIST106-C08,4,2026-10-15,Class 8: Spanish and Portuguese Colonial Societies
+HIST106,HIST106-C09,5,2026-10-19,Class 9: Indian Ocean Trade and European Expansion
+HIST106,HIST106-C10,5,2026-10-22,Class 10: Indigenous Resistance and Adaptation
+HIST106,HIST106-C11,6,2026-10-26,"Class 11: Missionaries, Religion, and Cultural Exchange"
+HIST106,HIST106-C12,6,2026-10-29,Class 12: Early Globalization and the Legacy of Exploration
+HIST107,HIST107-C01,1,2026-09-21,Class 1: Enlightenment Ideas and the Language of Rights
+HIST107,HIST107-C02,1,2026-09-24,Class 2: The American Revolution
+HIST107,HIST107-C03,2,2026-09-28,Class 3: Creating the United States and Debating Citizenship
+HIST107,HIST107-C04,2,2026-10-01,Class 4: The French Revolution Begins
+HIST107,HIST107-C05,3,2026-10-05,Class 5: Radical Revolution and the Reign of Terror
+HIST107,HIST107-C06,3,2026-10-08,Class 6: Napoleon and Revolutionary Europe
+HIST107,HIST107-C07,4,2026-10-12,Class 7: The Haitian Revolution
+HIST107,HIST107-C08,4,2026-10-15,"Class 8: Slavery, Emancipation, and Revolutionary Ideals"
+HIST107,HIST107-C09,5,2026-10-19,Class 9: Latin American Independence Movements
+HIST107,HIST107-C10,5,2026-10-22,Class 10: Nationalism and Revolution in Nineteenth-Century Europe
+HIST107,HIST107-C11,6,2026-10-26,Class 11: Women and the Politics of Revolution
+HIST107,HIST107-C12,6,2026-10-29,"Class 12: Revolution, Race, and Citizenship"
+HIST107,HIST107-C13,7,2026-11-02,Class 13: Comparing Revolutionary Constitutions
+HIST107,HIST107-C14,7,2026-11-05,Class 14: The Global Legacy of the Age of Revolutions
+HIST108,HIST108-C01,1,2026-09-21,Class 1: Why Industrialization Began in Britain
+HIST108,HIST108-C02,1,2026-09-24,"Class 2: Coal, Steam, and Mechanized Production"
+HIST108,HIST108-C03,2,2026-09-28,Class 3: Factories and the New Organization of Work
+HIST108,HIST108-C04,2,2026-10-01,"Class 4: Railways, Steamships, and Transportation"
+HIST108,HIST108-C05,3,2026-10-05,Class 5: Urbanization and the Industrial City
+HIST108,HIST108-C06,3,2026-10-08,"Class 6: Workers, Wages, and Labor Movements"
+HIST108,HIST108-C07,4,2026-10-12,"Class 7: Women, Children, and Industrial Labor"
+HIST108,HIST108-C08,4,2026-10-15,"Class 8: Capitalism, Markets, and Consumer Culture"
+HIST108,HIST108-C09,5,2026-10-19,Class 9: Industrialization beyond Britain
+HIST108,HIST108-C10,5,2026-10-22,"Class 10: Environment, Inequality, and the Legacy of Industry"
+HIST109,HIST109-C01,1,2026-09-21,Class 1: Europe before 1914 and the Alliance System
+HIST109,HIST109-C02,1,2026-09-24,Class 2: The July Crisis and the Outbreak of War
+HIST109,HIST109-C03,2,2026-09-28,Class 3: The Western Front and Trench Warfare
+HIST109,HIST109-C04,2,2026-10-01,Class 4: The Eastern Front and War of Movement
+HIST109,HIST109-C05,3,2026-10-05,"Class 5: Technology, Artillery, and Industrialized Warfare"
+HIST109,HIST109-C06,3,2026-10-08,Class 6: Empire and Colonial Troops in the War
+HIST109,HIST109-C07,4,2026-10-12,"Class 7: The Home Front, Propaganda, and Civilian Life"
+HIST109,HIST109-C08,4,2026-10-15,Class 8: The Ottoman Empire and the Middle Eastern Fronts
+HIST109,HIST109-C09,5,2026-10-19,Class 9: The United States Enters the War
+HIST109,HIST109-C10,5,2026-10-22,Class 10: Revolution in Russia and the End of the Eastern Front
+HIST109,HIST109-C11,6,2026-10-26,"Class 11: Armistice, Versailles, and the Postwar Settlement"
+HIST109,HIST109-C12,6,2026-10-29,"Class 12: Memory, Trauma, and the Legacy of World War I"
+HIST110,HIST110-C01,1,2026-09-21,Class 1: The Interwar Crisis and the Rise of Fascism
+HIST110,HIST110-C02,1,2026-09-24,Class 2: Nazi Germany and the Road to War
+HIST110,HIST110-C03,2,2026-09-28,Class 3: The Invasion of Poland and the Fall of France
+HIST110,HIST110-C04,2,2026-10-01,Class 4: The Battle of Britain and the Air War
+HIST110,HIST110-C05,3,2026-10-05,Class 5: Operation Barbarossa and the Eastern Front
+HIST110,HIST110-C06,3,2026-10-08,Class 6: Pearl Harbor and the War in the Pacific
+HIST110,HIST110-C07,4,2026-10-12,Class 7: North Africa and the Mediterranean War
+HIST110,HIST110-C08,4,2026-10-15,"Class 8: Occupation, Collaboration, and Resistance"
+HIST110,HIST110-C09,5,2026-10-19,Class 9: The Holocaust and Genocide in Europe
+HIST110,HIST110-C10,5,2026-10-22,Class 10: The Home Front and Wartime Economies
+HIST110,HIST110-C11,6,2026-10-26,Class 11: D-Day and the Liberation of Western Europe
+HIST110,HIST110-C12,6,2026-10-29,Class 12: The Soviet Advance and the Fall of Berlin
+HIST110,HIST110-C13,7,2026-11-02,Class 13: Island Warfare and the Pacific Campaign
+HIST110,HIST110-C14,7,2026-11-05,Class 14: Atomic Bombs and the End of the War
+HIST110,HIST110-C15,8,2026-11-09,"Class 15: War Crimes Trials, Refugees, and Reconstruction"
+HIST110,HIST110-C16,8,2026-11-12,"Class 16: Decolonization, the Cold War, and the Global Legacy of World War II"
+HIST111,HIST111-C01,1,2026-09-21,Class 1: What Were the Silk Roads?
+HIST111,HIST111-C02,1,2026-09-24,"Class 2: Caravans, Oases, and the Geography of Exchange"
+HIST111,HIST111-C03,2,2026-09-28,"Class 3: China, Central Asia, and Han Expansion"
+HIST111,HIST111-C04,2,2026-10-01,Class 4: Merchants and the Movement of Luxury Goods
+HIST111,HIST111-C05,3,2026-10-05,Class 5: Buddhism along the Silk Roads
+HIST111,HIST111-C06,3,2026-10-08,Class 6: Islamic Empires and Trans-Eurasian Trade
+HIST111,HIST111-C07,4,2026-10-12,Class 7: The Mongol Empire and Pax Mongolica
+HIST111,HIST111-C08,4,2026-10-15,"Class 8: Travelers, Pilgrims, and Cultural Encounters"
+HIST111,HIST111-C09,5,2026-10-19,"Class 9: Disease, the Black Death, and Connected Worlds"
+HIST111,HIST111-C10,5,2026-10-22,Class 10: Maritime Routes and the Legacy of the Silk Roads
+HIST112,HIST112-C01,1,2026-09-21,Class 1: Early Medieval South Asia and Regional Kingdoms
+HIST112,HIST112-C02,1,2026-09-24,Class 2: The Delhi Sultanate
+HIST112,HIST112-C03,2,2026-09-28,"Class 3: Society, Religion, and Cultural Exchange under the Sultanates"
+HIST112,HIST112-C04,2,2026-10-01,Class 4: The Rise of the Mughal Empire
+HIST112,HIST112-C05,3,2026-10-05,Class 5: Akbar and the Consolidation of Mughal Rule
+HIST112,HIST112-C06,3,2026-10-08,"Class 6: Mughal Court Culture, Art, and Architecture"
+HIST112,HIST112-C07,4,2026-10-12,"Class 7: Economy, Agriculture, and Urban Life under the Mughals"
+HIST112,HIST112-C08,4,2026-10-15,"Class 8: Religion, Community, and Everyday Life"
+HIST112,HIST112-C09,5,2026-10-19,Class 9: Aurangzeb and the Late Mughal Empire
+HIST112,HIST112-C10,5,2026-10-22,Class 10: Marathas and Other Regional Powers
+HIST112,HIST112-C11,6,2026-10-26,Class 11: European Trading Companies and Coastal Expansion
+HIST112,HIST112-C12,6,2026-10-29,Class 12: From Mughal Decline to Colonial Rule
